@@ -13321,258 +13321,265 @@ const hanzi4 = {
         "english": "cold, poor, to tremble",
         "simplified": ""
     },
-    // "械": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "爸": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "予": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "振": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "哲": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "乃": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "哩": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "鄭": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "洪": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "芳": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "峰": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "惠": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "浮": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "狼": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "椰": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "忽": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "複": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "莊": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "企": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "揚": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "癡": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "喵": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "霸": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "寂": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "倚": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "距": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "頁": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "隆": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "延": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "蕭": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "昭": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "盟": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "覆": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "憲": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "耐": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "愁": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
+    "械": {
+        "zhuyin": "ㄒㄧㄝˋ",
+        "pinyin": "xiè",
+        "tone": 4,
+        "english": "appliance, tool, weapon, shackles",
+        "simplified": ""
+    },
+    "爸": {
+        "zhuyin": "ㄅㄚˋ",
+        "pinyin": "",
+        "tone": 4,
+        "english": "dad, papa",
+        "simplified": ""
+    },
+    "予": {
+        "zhuyin": "ㄩˇ",
+        "pinyin": "",
+        "tone": 3,
+        "english": "to give",
+        "simplified": ""
+    },
+    "振": {
+        "zhuyin": "ㄓㄣˋ",
+        "pinyin": "",
+        "tone": 4,
+        "english": "to shake, flap, vibrate, resonate, rise up with spirit, rouse oneself",
+        "simplified": ""
+    },
+    "哲": {
+        "zhuyin": "ㄓㄜˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "wise, a sage",
+        "simplified": ""
+    },
+    "乃": {
+        "zhuyin": "ㄋㄞˇ",
+        "pinyin": "",
+        "tone": 3,
+        "english": "to be, thus, so, therefore, then, only, thereupon",
+        "simplified": ""
+    },
+    "哩": {
+        "zhuyin": "ㄌㄧˇ",
+        "pinyin": "",
+        "tone": 3,
+        "english": "mile",
+        "simplified": ""
+    },
+    "鄭": {
+        "zhuyin": "ㄓㄥˋ",
+        "pinyin": "",
+        "tone": 4,
+        "english": "surname Zheng",
+        "simplified": "郑"
+    },
+    "洪": {
+        "zhuyin": "ㄏㄨㄥˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "surname Hong, flood, big great",
+        "simplified": ""
+    },
+    "芳": {
+        "zhuyin": "ㄈㄤ",
+        "pinyin": "",
+        "tone": 1,
+        "english": "fragrant",
+        "simplified": ""
+    },
+    "峰": {
+        "zhuyin": "ㄈㄥ",
+        "pinyin": "",
+        "tone": 1,
+        "english": "high and tapered peak or summit of mountain, mountain-like in appearance, highest level",
+        "simplified": ""
+    },
+    "惠": {
+        "zhuyin": "ㄏㄨㄟˋ",
+        "pinyin": "",
+        "tone": 4,
+        "english": "surename Hui, favor, to benefit, benevolence",
+        "simplified": ""
+    },
+    "浮": {
+        "zhuyin": "ㄈㄨˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "to float, superficial, floating, unstable, temporary, hollow, inflated, superfluous",
+        "simplified": ""
+    },
+    "狼": {
+        "zhuyin": "ㄌㄤˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "wolf",
+        "simplified": ""
+    },
+    "椰": {
+        "zhuyin": "ㄧㄝ",
+        "pinyin": "",
+        "tone": 1,
+        "english": "coconut palm",
+        "simplified": ""
+    },
+    "忽": {
+        "zhuyin": "ㄏㄨ",
+        "pinyin": "",
+        "tone": 1,
+        "english": "surname Hu, to neglect, overlook, ignore, suddenly",
+        "simplified": ""
+    },
+    "複": {
+        "zhuyin": "ㄈㄨˋ",
+        "pinyin": "",
+        "tone": 4,
+        "english": "to repeat, double, overlap, complex, compound, duplicate",
+        "simplified": "复"
+    },
+    "莊": {
+        "zhuyin": "ㄓㄨㄤ",
+        "pinyin": "",
+        "tone": 1,
+        "english": "surname Zhuang, village, manor, place of buisness",
+        "simplified": "庄"
+    },
+    "企": {
+        "zhuyin": "ㄑㄧˇ",
+        "pinyin": "",
+        "tone": 3,
+        "english": "to plan a project, to stand on tiptoe",
+        "simplified": ""
+    },
+    "揚": {
+        "zhuyin": "ㄧㄤˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "surname Yang, to raise, hoist, yeet, scatter, flutter, propagate",
+        "simplified": "扬"
+    },
+    "癡": {
+        "zhuyin": "ㄔ",
+        "pinyin": "",
+        "tone": 1,
+        "english": "imbecile, stupid, foolish, silly",
+        "simplified": "痴"
+    },
+    "喵": {
+        "zhuyin": "ㄇㄧㄠ",
+        "pinyin": "",
+        "tone": 1,
+        "english": "cat meow",
+        "simplified": ""
+    },
+    "霸": {
+        "zhuyin": "ㄅㄚˋ",
+        "pinyin": "",
+        "tone": 4,
+        "english": "tyrant, lord, to rule by force, master",
+        "simplified": ""
+    },
+    "寂": {
+        "zhuyin": "ㄐㄧˋ",
+        "pinyin": "",
+        "tone": 4,
+        "english": "silent, solitary",
+        "simplified": ""
+    },
+    "倚": {
+        "zhuyin": "ㄧˇ",
+        "pinyin": "",
+        "tone": 3,
+        "english": "to lean on, rely upon",
+        "simplified": ""
+    },
+    "距": {
+        "zhuyin": "ㄐㄩˋ",
+        "pinyin": "",
+        "tone": 4,
+        "english": "at a distance of, to be apart",
+        "simplified": ""
+    },
+    "頁": {
+        "zhuyin": "ㄧㄝˋ",
+        "pinyin": "",
+        "tone": 4,
+        "english": "page, leaf",
+        "simplified": "页"
+    },
+    "頁": {
+        "zhuyin": "ㄒㄧㄝˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "head",
+        "simplified": "页"
+    },
+    "隆": {
+        "zhuyin": "ㄌㄨㄥˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "surname Long, sound of drums, grand, intense, prosperous, to swell, bulge",
+        "simplified": ""
+    },
+    "延": {
+        "zhuyin": "ㄧㄢˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "surname Yan, to prolong, extend, delay",
+        "simplified": ""
+    },
+    "蕭": {
+        "zhuyin": "ㄒㄧㄠ",
+        "pinyin": "",
+        "tone": 1,
+        "english": "surname Xiao, miserable, desolate, dreary",
+        "simplified": "萧"
+    },
+    "昭": {
+        "zhuyin": "ㄓㄠ",
+        "pinyin": "",
+        "tone": 1,
+        "english": "bright, clear, manifest, to show clearly",
+        "simplified": ""
+    },
+    "盟": {
+        "zhuyin": "ㄇㄥˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "oath, pledge, union, ally",
+        "simplified": ""
+    },
+    "覆": {
+        "zhuyin": "ㄈㄨˋ",
+        "pinyin": "",
+        "tone": 4,
+        "english": "to cover, overflow, overturn, capsize, to reply to a letter",
+        "simplified": "复"
+    },
+    "憲": {
+        "zhuyin": "ㄒㄧㄢˋ",
+        "pinyin": "",
+        "tone": 4,
+        "english": "statute, constitution",
+        "simplified": "宪"
+    },
+    "耐": {
+        "zhuyin": "ㄋㄞˋ",
+        "pinyin": "",
+        "tone": 4,
+        "english": "to bear, endure, withstand",
+        "simplified": ""
+    },
+    "愁": {
+        "zhuyin": "ㄔㄡˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "to worry about",
+        "simplified": ""
+    },
     // "撥": {
     //     "zhuyin": "",
     //     "pinyin": "",

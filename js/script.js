@@ -1679,7 +1679,7 @@ function loadRadicalZhuyinQuiz() {
             handleAnswerClickEng(loadRadicalZhuyinQuiz, e, 1000)
         })
         newDiv.classList.add('answer');
-        newDiv.classList.add('cursive');
+        // newDiv.classList.add('cursive');
         answersBox.append(newDiv);
     });
 };
