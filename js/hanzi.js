@@ -13580,97 +13580,97 @@ const hanzi4 = {
         "english": "to worry about",
         "simplified": ""
     },
-    // "撥": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "沈": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "昇": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "髮": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "哀": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "龜": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "眉": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "閒": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "映": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "託": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "鴻": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "媒": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "擬": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
+    "撥": {
+        "zhuyin": "ㄅㄛ",
+        "pinyin": "",
+        "tone": 1,
+        "english": "to push aside with the hand or stick something, to allocate, measure word for group or batch",
+        "simplified": "拨"
+    },
+    "沈": {
+        "zhuyin": "ㄕㄣˇ",
+        "pinyin": "",
+        "tone": 3,
+        "english": "surname Shen, submerge, immerse, sink, deep, profound",
+        "simplified": ""
+    },
+    "昇": {
+        "zhuyin": "ㄕㄥ",
+        "pinyin": "",
+        "tone": 1,
+        "english": "to ascend, rise in rank",
+        "simplified": "升"
+    },
+    "髮": {
+        "zhuyin": "ㄈㄚ",
+        "pinyin": "",
+        "tone": 1,
+        "english": "hair",
+        "simplified": "发"
+    },
+    "哀": {
+        "zhuyin": "ㄞ",
+        "pinyin": "",
+        "tone": 1,
+        "english": "sorrow, grief, pity, to grieve for, pity, lament, farmer god Ai",
+        "simplified": ""
+    },
+    "龜": {
+        "zhuyin": "ㄍㄨㄟ",
+        "pinyin": "",
+        "tone": 1,
+        "english": "tortoise, turtle",
+        "simplified": "龟"
+    },
+    "眉": {
+        "zhuyin": "ㄇㄟˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "eyebrow, upper margin",
+        "simplified": ""
+    },
+    "閒": {
+        "zhuyin": "ㄒㄧㄢˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "idle, unoccupied, leisure",
+        "simplified": "闲"
+    },
+    "映": {
+        "zhuyin": "ㄧㄥˋ",
+        "pinyin": "",
+        "tone": 4,
+        "english": "to reflect light, sine, project",
+        "simplified": ""
+    },
+    "託": {
+        "zhuyin": "ㄊㄨㄛ",
+        "pinyin": "",
+        "tone": 1,
+        "english": "to trust, entrust, be entrusted with",
+        "simplified": "托"
+    },
+    "鴻": {
+        "zhuyin": "ㄏㄨㄥˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "eastern bean goose, great, large",
+        "simplified": "鸿"
+    },
+    "媒": {
+        "zhuyin": "ㄇㄟˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "medium, matchmaker, go-between, news media",
+        "simplified": ""
+    },
+    "擬": {
+        "zhuyin": "ㄋㄧˇ",
+        "pinyin": "",
+        "tone": 3,
+        "english": "to plan to, draft a plan, imitate, assess, compare",
+        "simplified": "拟"
+    },
     // "憂": {
     //     "zhuyin": "",
     //     "pinyin": "",
