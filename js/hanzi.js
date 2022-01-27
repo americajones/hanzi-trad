@@ -13671,90 +13671,97 @@ const hanzi4 = {
         "english": "to plan to, draft a plan, imitate, assess, compare",
         "simplified": "拟"
     },
-    // "憂": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "藉": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "寢": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "井": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "徐": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "川": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "奈": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "倍": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "橫": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "齊": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "譜": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
-    // "瞭": {
-    //     "zhuyin": "",
-    //     "pinyin": "",
-    //     "tone": ,
-    //     "english": "",
-    //     "simplified": ""
-    // },
+    "憂": {
+        "zhuyin": "ㄧㄡ",
+        "pinyin": "",
+        "tone": 1,
+        "english": "to worry, concern oneself with, anxiety, sorrow, mourning",
+        "simplified": "忧"
+    },
+    "藉": {
+        "zhuyin": "ㄐㄧㄝˋ",
+        "pinyin": "",
+        "tone": 4,
+        "english": "sleeping mat, to placate, to lend, borrow",
+        "simplified": "借"
+    },
+    "藉": {
+        "zhuyin": "ㄐㄧˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "to insult, walk all over, surname Ji",
+        "simplified": "借"
+    },
+    "寢": {
+        "zhuyin": "ㄑㄧㄣˇ",
+        "pinyin": "",
+        "tone": 3,
+        "english": "to lie down",
+        "simplified": "寝"
+    },
+    "井": {
+        "zhuyin": "ㄐㄧㄥˇ",
+        "pinyin": "",
+        "tone": 3,
+        "english": "a well, neat, orderly, surname Jing",
+        "simplified": ""
+    },
+    "徐": {
+        "zhuyin": "ㄒㄩˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "slowly, gently, surname Xu",
+        "simplified": ""
+    },
+    "川": {
+        "zhuyin": "ㄔㄨㄢ",
+        "pinyin": "",
+        "tone": 1,
+        "english": "river, creek, plain, area of level country",
+        "simplified": ""
+    },
+    "奈": {
+        "zhuyin": "ㄋㄞˋ",
+        "pinyin": "",
+        "tone": 4,
+        "english": "converys frustration and futility, phonetic nai",
+        "simplified": ""
+    },
+    "倍": {
+        "zhuyin": "ㄅㄟˋ",
+        "pinyin": "",
+        "tone": 4,
+        "english": "x-fold, times multiplier, double, to increase or multiply",
+        "simplified": ""
+    },
+    "橫": {
+        "zhuyin": "ㄏㄥˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "horizontal, across, crosswise, horizontal stroke, to place flat, jumble, chaotic, violent",
+        "simplified": "横"
+    },
+    "齊": {
+        "zhuyin": "ㄑㄧˊ",
+        "pinyin": "",
+        "tone": 2,
+        "english": "neat, even, level with, identical, simultaneous, surname Qi",
+        "simplified": "齐"
+    },
+    "譜": {
+        "zhuyin": "ㄆㄨˇ",
+        "pinyin": "",
+        "tone": 3,
+        "english": "chart, table, list, register, musical score",
+        "simplified": "谱"
+    },
+    "瞭": {
+        "zhuyin": "ㄌㄧㄠˇ",
+        "pinyin": "",
+        "tone": 3,
+        "english": "bright eyes, clear-sighted, to understand clearly",
+        "simplified": "了"
+    },
     // "鬆": {
     //     "zhuyin": "",
     //     "pinyin": "",
